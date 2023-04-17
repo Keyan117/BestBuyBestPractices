@@ -11,3 +11,4 @@ namespace BestBuyCRUD
         public string StockLevel { get; set; }
     }
 }
+
